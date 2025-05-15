@@ -2,7 +2,7 @@
 
 ## Our Evolution
 
-This GitHub organization was created in 2022 as an exploration into no-code development. In 2022, it evolved into a full-fledged service helping non-technical founders build functional prototypes using Bubble.io and other no-code tools.
+This GitHub organization was created in Aug 16, 2020 as an exploration into Software Development. In 2022, it evolved into a full-fledged service helping non-technical founders build functional prototypes using Bubble.io and other no-code tools.
 
 Today, we're transforming again - focusing on AI agents for business operations.
 
