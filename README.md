@@ -59,7 +59,7 @@ We're building a community where business leaders with industry expertise can im
 ## Contact
 
 - Website: [nocodemagician.com](https://nocodemagician.com)
-- Email: [contact@nocodemagician.com](mailto:contact@nocodemagician.com)
+- Email: [christmantoro@gmail.com](mailto:christmantoro@gmail.com)
 - LinkedIn: [Nocode Magician](https://www.linkedin.com/company/nocodemagician/)
 
 ---
