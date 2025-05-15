@@ -1,5 +1,3 @@
-Remembering...
-
 # Nocode Magician
 
 ## Our Evolution
